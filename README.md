@@ -12,7 +12,7 @@ CairoSample expects to find the Cairo header files, import libraries and DLLs in
 
 Install the Cairo headers and libraries using [MacPorts](https://www.macports.org/).
 
-    sudo port install cairo-devel
+    sudo port install cairo
     
 ### Ubuntu
 
