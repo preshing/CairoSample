@@ -6,7 +6,7 @@ A simple project to render an image to `spiral.png`. It's meant as an example of
 
 ### Windows (Visual Studio)
 
-CairoSample expects to find the Cairo header files, import libraries and DLLs in a subfolder named `extern\cairo-windows-1.15.4`. You can download and extract the package automatically by running the Python 3 script `setup-win32.py`. If you don't have Python installed, [download and extract it by hand](https://github.com/preshing/cairo-windows/releases).
+CairoSample expects to find the Cairo header files, import libraries and DLLs in a subfolder named `extern\cairo-windows-1.15.4`. You can download and extract the package automatically by running the Python 3 script `setup-win32.py`. If you don't have Python installed, [download and extract the package by hand](https://github.com/preshing/cairo-windows/releases).
 
 ### MacOS (Xcode)
 
