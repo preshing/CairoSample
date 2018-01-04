@@ -19,4 +19,4 @@ os.makedirs(externFolder, exist_ok=True)
 os.chdir(externFolder)
 
 # Cairo
-downloadZip('https://github.com/preshing/cairo-windows/releases/download/1.15.6/cairo-windows-1.15.6.zip', 'cairo-windows-1.15.6')
+downloadZip('https://github.com/preshing/cairo-windows/releases/download/1.15.10/cairo-windows-1.15.10.zip', 'cairo-windows-1.15.10')
